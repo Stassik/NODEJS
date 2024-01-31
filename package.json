@@ -1,0 +1,25 @@
+{
+  "name": "working-with-users",
+  "version": "1.0.0",
+  "description": "get, post, put and delete users",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stassik/NODEJS.git"
+  },
+  "author": "Stassik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stassik/NODEJS/issues"
+  },
+  "homepage": "https://github.com/Stassik/NODEJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.8",
+    "joi": "^17.12.1"
+  }
+}
